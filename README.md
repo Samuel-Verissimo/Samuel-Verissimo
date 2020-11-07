@@ -1,4 +1,7 @@
-### Hi there 👋
+# Seja bem-vindo ⚡!
+
+Eu me chamo Samuel Verissimo e possuo 19 anos, cursei T.I em meu ensino médio e me apaixonei ainda mais pela tecnologia! 
+Atualmente faço desenvolvimento em web e sempre estou a disposição de aprender mais... 
 
 <!--
 **Samuel-Verissimo/Samuel-Verissimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
