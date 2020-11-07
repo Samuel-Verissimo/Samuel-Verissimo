@@ -4,8 +4,8 @@ Eu me chamo Samuel Verissimo e tenho 19 anos 👦
 Eu trabalho com desenvolvimento em web desde 2017! 💻
 Sou apaixonado por novos desafios e cada vez aprender mais! 💘
 ### "A felicidade não se resume na ausência de problemas, mas sim na sua capacidade de lidar com eles." 🌍
-- 📍 Brasileiro
-- 💻 Desenvolver em [Clínica terapêutica Jeova Rafha](http://ctjeovarafha.com/website/)
+- 📍 Campinas/SP 
+- 💻 Desenvolvedor em [Clínica terapêutica Jeova Rafha](http://ctjeovarafha.com/website/)
 #
 Minhas redes sociais 👇🏼
 
