@@ -12,9 +12,6 @@ Conhecimento prático e teórico nas seguintes linguagens:
 - C, C++ ✅
 - SQL ✅
 
-- Back-end 
-- Framework favorito: ![Linkedin Badge](https://www.kindpng.com/picc/m/300-3001456_bootstrap-bootstrap-4-icon-png-transparent-png.png)[](https://getbootstrap.com/) 
-
 
 ### "A felicidade não se resume na ausência de problemas, mas sim na sua capacidade de lidar com eles." 🌍
 - 📍 Hortolândia/SP 
