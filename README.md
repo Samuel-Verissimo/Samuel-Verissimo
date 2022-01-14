@@ -18,7 +18,7 @@ Conhecimento prático e teórico nas seguintes linguagens:
 #
 Minhas redes sociais 👇🏼
 
-![Linkedin Badge](https://www.linkedin.com/in/samuel-verissimo-30678922a/]) 
+[![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
 
 
 
