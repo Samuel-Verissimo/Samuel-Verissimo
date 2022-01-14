@@ -1,7 +1,6 @@
 # Hello guys, bem-vindos! ⚡
 
 Meu nome é Samuel Verissimo, trabalho com desenvolvimento em web desde 2017! 💻  
-Sou apaixonado por novos desafios e cada vez aprender mais! 💘
 
 Conhecimento prático e teórico nas seguintes linguagens:
 - HTML ✅
