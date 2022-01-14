@@ -18,7 +18,7 @@ Conhecimento prático e teórico nas seguintes linguagens:
 #
 Minhas redes sociais 👇🏼
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-verissimo-30678922a/]) 
+![Linkedin Badge](https://www.linkedin.com/in/samuel-verissimo-30678922a/]) 
 
 
 
