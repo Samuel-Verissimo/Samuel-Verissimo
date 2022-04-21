@@ -1,7 +1,8 @@
 # Hello guys, bem-vindos! ⚡
 
-Meu nome é Samuel Verissimo, tenho contato com desenvolvimento em web desde 2017! 💻  
-Atualmente estou trabalhando como DBA (Administrador de banco de dados), gosto muito da área e pretendo me especializar nela! 😄
+Meu nome é Samuel Verissimo, tenho 20 anos, e sou apaixonado por tecnologia desde criança! 😄
+Tenho experiência profissional com desenvolvimento em web desde 2019! 💻  
+Atualmente estou trabalhando como DBA (Administrador de banco de dados), gosto muito da área e pretendo me especializar nela! 💻
 
 Conhecimento prático e teórico nas seguintes linguagens:
 - HTML ✅
