@@ -1,4 +1,4 @@
-# Hello guys, bem-vindos! ⚡
+# Salve! tudo bem? sejam bem-vindos! ⚡
 
 Meu nome é Samuel Verissimo, tenho 20 anos, e sou apaixonado por tecnologia desde criança! 😄
 
