@@ -1,11 +1,10 @@
 # Salve! tudo bem? sejam bem-vindos! ⚡
-
 Meu nome é Samuel Verissimo, tenho 20 anos, e sou apaixonado por tecnologia desde criança! 😄
 
 Tenho experiência profissional com desenvolvimento em web desde 2019! 💻  
 Atualmente estou trabalhando como DBA (Administrador de banco de dados), gosto muito da área e pretendo me especializar nela! 💻
 
-Conhecimento prático e teórico nas seguintes linguagens:
+#### Conhecimento prático e teórico nas seguintes linguagens:
 - CSS ✅
 - PHP ✅
 - JAVASCRIPT ✅
@@ -13,7 +12,8 @@ Conhecimento prático e teórico nas seguintes linguagens:
 - C, C++ ✅
 - SQL ✅
 
-Frameworks: Bootstrap, CodeIgniter
+
+Frameworks: Bootstrap, CodeIgniter	<br/>
 Banco de dados: MySQL, SQL Server
 
 
