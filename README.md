@@ -14,7 +14,7 @@ Atualmente estou trabalhando como DBA (Administrador de banco de dados), gosto m
 
 
 Frameworks: Bootstrap, CodeIgniter	<br/>
-Banco de dados: MySQL, SQL Server
+Banco de dados: MySQL, SQL Server e PostgreSQL
 
 
 ### "A felicidade não se resume na ausência de problemas, mas sim na sua capacidade de lidar com eles." 🌍
