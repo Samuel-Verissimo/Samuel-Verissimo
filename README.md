@@ -11,8 +11,8 @@ Atualmente estou trabalhando como Desenvolvedor web, gosto muito da área e pret
 - JAVASCRIPT (JQUERY, AJAX) ✅
 - SQL ✅
 
-Frameworks: Bootstrap, CodeIgniter 3 & 4	<br/>
-Banco de dados: MySQL, SQL Server, MySQL Workbench e PostgreSQL
+__Frameworks: Bootstrap, CodeIgniter 3 & 4__	<br/>
+__Banco de dados: MySQL, SQL Server, MySQL Workbench e PostgreSQL__
 
 
 #### Experiência educacional e teórica nas seguintes linguagens:
