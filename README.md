@@ -15,7 +15,7 @@ __Frameworks:__ Bootstrap, CodeIgniter 3 & 4	<br/>
 __Banco de dados:__ MySQL, SQL Server, MySQL Workbench e PostgreSQL
 
 
-#### Experiência práticas nas seguintes linguagens:
+#### Experiências práticas nas seguintes linguagens:
 - Node.js ✅
 - React ✅
 - React Native ✅
