@@ -6,13 +6,13 @@ Atualmente estou trabalhando como Desenvolvedor web, gosto muito da área e pret
 
 
 #### Experiência profissional nas seguintes linguagens:
-- CSS ✅
-- __PHP__ ✅
-- __JAVASCRIPT (JQUERY, AJAX)__ ✅
+- PHP ✅
+- JAVASCRIPT (JQUERY, AJAX) ✅
 - SQL ✅
+- CSS ✅
 
-Frameworks: __Bootstrap, CodeIgniter 3 & 4__	<br/>
-Banco de dados: __MySQL, SQL Server, MySQL Workbench e PostgreSQL__
+__Frameworks:__ Bootstrap, CodeIgniter 3 & 4	<br/>
+__Banco de dados:__ MySQL, SQL Server, MySQL Workbench e PostgreSQL
 
 
 #### Experiência educacional e teórica nas seguintes linguagens:
