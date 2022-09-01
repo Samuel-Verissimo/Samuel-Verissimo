@@ -1,5 +1,5 @@
 # Salve! tudo bem? sejam bem-vindos! ⚡
-Meu nome é Samuel Verissimo, tenho 21 anos, e sou apaixonado por tecnologia! 😄
+Meu nome é Samuel Verissimo, tenho 21 anos, e sou apaixonado por tecnologia! 
 
 Tenho experiência profissional com desenvolvimento em web desde 2019! 💻  
 Atualmente estou trabalhando como Desenvolvedor web, gosto muito da área e pretendo seguir carreira como full-stack! 💻
