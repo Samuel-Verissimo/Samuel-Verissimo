@@ -1,5 +1,5 @@
 # :computer:  Samuel Verissímo  
- <a href="https://www.linkedin.com/in/samuel-verissimo-30678922a/" target="_blank">
+ <a href="https://www.linkedin.com/in/samuel-verissimo/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
