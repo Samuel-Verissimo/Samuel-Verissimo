@@ -33,4 +33,6 @@ Experiências acadêmicas e profissionais em desenvolvimento, com muita força d
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-
+## Stats
+<p><img width="45%" height="160emm" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Samuel-Verissimo&theme=dark&fire=#40C9B6&ring=40C9B6&currStreakLabel=red)](https://git.io/streak-stats"/></p>
+<p> <img width="45%" height="158px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Verissimo&layout=compact&langs_count=7&theme=dark" align="right"/> </p>
