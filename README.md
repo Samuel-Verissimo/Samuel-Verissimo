@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
  <a href = "mailto:samuel-verissimo@outlook.com">
-  <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">
 </a>
 
 Experiências acadêmicas e profissionais em desenvolvimento, com muita força de vontade e desejo de crescer profissionalmente, atualmente, buscando conhecimentos e oportunidade para seguir carreira como desenvolvedor full-stack, ou, me especializar em back-end. 
